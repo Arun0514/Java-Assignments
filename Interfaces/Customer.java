@@ -1,8 +1,3 @@
-//4.
-//Hands on 
-//(Main objective :Run time polymorphism achieved using interfaces)
-
-
 package Interfaces;
 
 public class Customer {
